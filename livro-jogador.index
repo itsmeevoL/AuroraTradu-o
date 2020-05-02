@@ -5,7 +5,7 @@
 		<description>O livro do jogador é a referência básica para um jogador de Dungeons &amp; Dragons. Nele contém todas as regras para criação de personagem, combate, equipamentos, magias e etc.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.2">
-			<file name="livro-jogador.index " url="C:\Users\thive\OneDrive\Documentos\5e Character Builder\custom\user\livro-jogador.index"/>
+			<file name="livro-jogador.index " url="https://raw.githubusercontent.com/itsmeevoL/AuroraTradu-o/master/livro-jogador.index"/>
 		</update>
 	</info>
 	<files>	
